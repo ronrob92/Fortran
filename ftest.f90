@@ -1,4 +1,4 @@
-program ftest
+program ftest 
 
 implicit none
 integer, parameter :: SIZE = 100
